@@ -30,7 +30,7 @@ Here are some projects I worked on during my OpenClassrooms training, showcasing
 
 ## 🛠️ Tech Stack &nbsp; | &nbsp; 🔍 Tech Watch
 
-<div><a href="https://app.daily.dev/GiuseppeAmato" ><img align='right' src="https://api.daily.dev/devcards/b2b68d02681d490aa294dcf86dd9884e.png?r=x3a" width="230" style="margin-left: 20px;" alt="Giuseppe Amato's Dev Card"/></a></div>
+<div><a href="https://app.daily.dev/giuseppeamato" ><img align='right' src="https://api.daily.dev/devcards/b2b68d02681d490aa294dcf86dd9884e.png?r=sk9" width="230" style="margin-left: 20px;" alt="Giuseppe Amato's Dev Card"/></a></div>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
